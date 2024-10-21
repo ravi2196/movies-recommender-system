@@ -15,12 +15,12 @@ A web application that recommends movies based on user selection using the TMDB 
 
 ## Project Structure
 
-movie-recommendation/ ├── app.py # Main application file 
-                      ├── static/  
-                          └── css/
-                              └── styles.css # CSS styles 
-                      ├── templates/ │ 
-                          └── index.html # HTML template
+movie-recommendation/ ├── app.py # Main application file <br>
+                      ├── static/  <br>
+                          └── css/<br>
+                              └── styles.css # CSS styles <br>
+                      ├── templates/ <br>
+                          └── index.html # HTML template <br>
 
 ## Contribution
 
